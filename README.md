@@ -7,5 +7,6 @@ This repository serves as a personal logbook for AI-related study and hands-on p
 ## 目录说明
 
 - `日报-2026-07-14.md`：第一篇日报，记录从“面向过程”到“面向对象”编程思维切换的学习总结。
+- `日报-2026-07-17.md`：阶段性日报汇总，记录学习路线、技术栈规划与后续执行方向。
 
 后续可以继续按日期新增日报与周报文件，形成连续的学习记录。
